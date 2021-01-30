@@ -1,0 +1,9 @@
+﻿S.no,Muscle Pain,Running Nose,Shivering,Fever,Watery Eyes,Fatigue,Congestion,Throat Irritation,Loss of Smell,Headache,Chest Pain,Dehydration,Chronic Cough,Loss of Weight,Skin Rash,Diseases
+1,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,A
+2,Y,N,Y,Y,N,N,N,Y,N,N,Y,Y,Y,N,Y,B
+3,Y,N,N,N,N,Y,Y,N,N,N,Y,Y,Y,N,N,C
+4,N,N,Y,N,N,N,N,N,N,Y,Y,N,N,Y,N,D
+5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,E
+6,N,Y,Y,N,Y,N,Y,Y,N,Y,N,N,Y,N,Y,F
+7,Y,N,N,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,Y,G
+8,N,Y,N,N,Y,Y,N,N,N,Y,N,Y,N,Y,N,H
